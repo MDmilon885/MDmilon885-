@@ -1,7 +1,7 @@
 <h1 align="center" style="color: blue;">I'm Milon Chowdhuri</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunder5316r&label=Profile%20views&color=0e75b6&style=flat" alt="thunder5316r" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MD Milon&label=Profile%20views&color=0e75b6&style=flat" alt="MD M<ilon" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thunder5316R](https://github.com/MDmilon885)
 
